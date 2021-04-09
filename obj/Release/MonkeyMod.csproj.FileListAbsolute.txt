@@ -1,8 +1,0 @@
-D:\Visual Studio Projects\MonkeyMod\bin\Release\MonkeyMod.dll
-D:\Visual Studio Projects\MonkeyMod\bin\Release\MonkeyMod.pdb
-D:\Visual Studio Projects\MonkeyMod\bin\Release\MelonLoader.dll
-D:\Visual Studio Projects\MonkeyMod\obj\Release\MonkeyMod.csprojAssemblyReference.cache
-D:\Visual Studio Projects\MonkeyMod\obj\Release\MonkeyMod.csproj.CoreCompileInputs.cache
-D:\Visual Studio Projects\MonkeyMod\obj\Release\MonkeyMod.csproj.CopyComplete
-D:\Visual Studio Projects\MonkeyMod\obj\Release\MonkeyMod.dll
-D:\Visual Studio Projects\MonkeyMod\obj\Release\MonkeyMod.pdb
