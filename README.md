@@ -1,2 +1,2 @@
 # MonkeyMod
-monkey mod make vrchat go brrr
+This mod prevents all VRChat bugs and issues from happening.
